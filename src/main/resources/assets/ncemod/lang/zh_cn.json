@@ -1,0 +1,8 @@
+{
+  "nce.comment": "Copyright (C) 2023 SNWCreations. Developed for Forever_xiaoyi's Minecraft server",
+  "nce.enabled": "防爆模组功能已启用！",
+  "nce.disabled": "防爆模组功能已禁用！",
+  "nce.status": "NoCreeperExplosion 模组已安装在此服务器上。当前状态: ",
+  "nce.status.true": "启用",
+  "nce.status.false": "禁用"
+}

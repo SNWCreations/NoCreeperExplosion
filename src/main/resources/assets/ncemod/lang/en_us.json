@@ -1,0 +1,8 @@
+{
+  "nce.comment": "Copyright (C) 2023 SNWCreations. Developed for Forever_xiaoyi's Minecraft server",
+  "nce.enabled": "NoCreeperExplosion Mod is Enabled!",
+  "nce.disabled": "NoCreeperExplosion Mod is Disabled!",
+  "nce.status": "NoCreeperExplosion is installed on this server. Mod is currently ",
+  "nce.status.true": "Enabled",
+  "nce.status.false": "Disabled"
+}

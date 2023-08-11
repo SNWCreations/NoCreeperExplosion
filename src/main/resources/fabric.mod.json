@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "ncemod",
+  "version": "${version}",
+  "name": "NoCreeperExplosion",
+  "description": "Minecraft, but creeper explosion makes no sense. Developed for Forever_xiaoyi's Minecraft server",
+  "authors": [
+    "SNWCreations"
+  ],
+  "contact": {
+    "email": "snwcreations@qq.com"
+  },
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "snw.ncemod.NoCreeperExplosion"
+    ]
+  },
+  "mixins": [
+    "ncemod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
